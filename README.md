@@ -41,9 +41,15 @@ landing-page/
 
 - 🔥 Responsive layout
 - 💨 Smooth animations using keyframes
-- 🎯 Section-based navigation with scroll behavior
+- 🎯 Section-based navigation with scroll behaviour
 - 📱 Mobile-first design
 - 🧱 Clean and modular Sass files
+
+---
+
+## 📸 Screenshot
+
+![Landing Page Screenshot](screenshot.png)
 
 ---
 
@@ -82,16 +88,9 @@ open index.html
 
 Or use **Live Server** in VS Code.
 
----
-
-## 📸 Screenshots
-
-![Landing Page Screenshot](screenshot.png)
-
----
 
 ## 🤝 License
 
 This project is open-source and free to use. Attribution appreciated!
 
----
+
