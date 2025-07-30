@@ -8,10 +8,6 @@ This is a modern, responsive, and animated landing page built using **HTML** and
 - Smooth navigation
 - Clean and maintainable Sass architecture
 
-## 🚀 Live Preview
-
-([🔗 View Live Demo](https://github.com/MiniduOshan/sass.git))
-
 ---
 
 ## 📁 Folder Structure
