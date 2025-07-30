@@ -95,16 +95,3 @@ Or use **Live Server** in VS Code.
 This project is open-source and free to use. Attribution appreciated!
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**
-([GitHub Profile](https://github.com/MiniduOshan))
-
-```
-
-- `your-username` and `your-repo-name` with your actual GitHub details  
-- `screenshot.png` with an uploaded screenshot in your repo
-
-Would you like me to generate that screenshot or deploy guide for GitHub Pages too?
-```
